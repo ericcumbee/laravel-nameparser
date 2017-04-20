@@ -24,6 +24,8 @@ class NameParser {
       'Dr.' => array('dr'),
       'Rev.' => array("rev", "rev'd", "reverend"),
       'Fr.' => array('fr', 'father'),
+      'Lt. Col.' => array('Lt. Col.'),
+      'Col.' => array('Col.'),
       'Hon.' => array('hon.','hon'),
       'Sr.' => array('sr', 'sister'),
       'Prof.' => array('prof', 'professor'),
